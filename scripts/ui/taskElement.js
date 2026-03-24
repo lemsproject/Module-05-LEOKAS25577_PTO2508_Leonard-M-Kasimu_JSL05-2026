@@ -21,6 +21,7 @@ export function createTaskElement(task) {
   `;
 
   // Add click event to open modal
+
   taskDiv.addEventListener("click", () => openTaskModal(task));
 
   return taskDiv;
