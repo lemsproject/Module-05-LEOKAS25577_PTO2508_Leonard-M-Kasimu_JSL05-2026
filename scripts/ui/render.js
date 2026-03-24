@@ -10,6 +10,7 @@ import { createTaskElement } from "./taskElement.js";
  * Clears existing tasks and re-renders.
  * @param {Array} tasks - Array of task objects to render.
  */
+
 export function renderTasks(tasks) {
   // Clear all columns
   const columns = document.querySelectorAll(".column-div");
