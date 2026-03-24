@@ -22,4 +22,6 @@ On load, app reads saved tasks, preserves across refresh.
 Completed “add, render, persist” flow meets JSL05 behavior.
 
 **SUMMARY**
-This was
+This was a real challenge with a number of difficulties,but i have constantly dived deep and made researh
+until i managed to come out with a positive result
+meaning meet the challenge brief figma design requirement.
