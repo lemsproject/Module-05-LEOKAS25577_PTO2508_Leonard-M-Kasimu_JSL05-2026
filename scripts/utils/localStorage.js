@@ -10,6 +10,7 @@ import { initialData } from "../../initialData.js";
  * Loads tasks from localStorage. If no tasks are stored, initializes with initialData.tasks.
  * @returns {Array} Array of task objects.
  */
+
 export function loadTasks() {
   const storedTasks = localStorage.getItem("kanbanTasks");
   if (storedTasks) {
