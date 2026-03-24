@@ -1,6 +1,6 @@
 /**
  * Modal Handlers module for managing modal dialogs.
- * Handles opening, closing, and form submissions for add and edit task modals.
+ * Handles opening, closing, and form submissions for adding and editing task modals.
  */
 
 import { addTask, updateTask, deleteTask } from "../tasks/taskManager.js";
